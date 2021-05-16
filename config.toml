@@ -5,6 +5,7 @@ DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
 preserveTaxonomyNames = true
 publishDir = "docs"
+ignoreErrors = ["error-remote-getjson"] # to fix errors
 
 [params]
     # The name to display as main title in the home page
@@ -35,7 +36,7 @@ publishDir = "docs"
     loadfastload = false
 
     # Sets the speed for the page loading effect. Default is 1.0.
-    loadspeedfactor = 1.5
+    loadspeedfactor = 3.5
 
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = true
@@ -83,7 +84,7 @@ tag = "tags"
     simple = true
 
   [privacy.instagram]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.youtube]
@@ -97,3 +98,4 @@ tag = "tags"
 
   [services.twitter]
     disableInlineCSS = true
+
