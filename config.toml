@@ -7,6 +7,8 @@ preserveTaxonomyNames = true
 publishDir = "docs"
 ignoreErrors = ["error-remote-getjson"] # to fix errors
 
+keywords = ["andy chung","woodchung","andrew chung","andy aram chung","andrew aram chung", "andy", "andrew", "chung"]
+
 [params]
     # The name to display as main title in the home page
     mainpagetitle = "Andy Chung"
