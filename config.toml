@@ -4,6 +4,7 @@ languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
 preserveTaxonomyNames = true
+publishDir = "docs"
 
 [params]
     # The name to display as main title in the home page
