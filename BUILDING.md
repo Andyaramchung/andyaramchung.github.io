@@ -23,6 +23,7 @@ You may have to run `git pull` to sync your local machine to repository in the
 cloud.
 
 
-To upload the changes on this website, type in "git add *"
-then "git commit -m "<description of changes>"
-then "git push"
+To upload the changes on this website:
+1. Make changes on VSCode
+2. Initiate Hugo on Terminal by typing in "hugo"
+3. Use source control to push the changes.
