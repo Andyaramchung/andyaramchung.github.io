@@ -18,3 +18,6 @@ To clone your repo to your local machine, use `gh repo clone <repo>`.
 
 To upload your files nicely and easily, use the version control tab 
 (it looks like a fork) in VS Code.
+
+You may have to run `git pull` to sync your local machine to repository in the
+cloud.
