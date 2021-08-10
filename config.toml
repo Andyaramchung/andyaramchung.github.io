@@ -17,7 +17,7 @@ keywords = ["andy chung","woodchung","andrew chung","andy aram chung","andrew ar
     mainpagesubtitle = "Welcome to the early 90s!" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
+    mainpagedesc = "The quick brown fox jumps over the lazy dog."
 
     # The name to display in the copyright section in the footer
     copyrightname = "Andy Aram Chung"
