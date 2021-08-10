@@ -21,3 +21,8 @@ To upload your files nicely and easily, use the version control tab
 
 You may have to run `git pull` to sync your local machine to repository in the
 cloud.
+
+
+To upload the changes on this website, type in "git add *"
+then "git commit -m "<description of changes>"
+then "git push"
