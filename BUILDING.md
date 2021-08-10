@@ -26,4 +26,5 @@ cloud.
 To upload the changes on this website:
 1. Make changes on VSCode
 2. Initiate Hugo on Terminal by typing in "hugo"
-3. Use source control to push the changes.
+3. Stage the changes
+4. Use source control to push the changes.
