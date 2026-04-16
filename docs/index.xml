@@ -2,27 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andy Chung</title>
-    <link>andyaramchung.github.io/</link>
+    <link>https://andyaramchung.github.io/</link>
     <description>Recent content on Andy Chung</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="andyaramchung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andyaramchung.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>andyaramchung.github.io/archives/</link>
+      <link>https://andyaramchung.github.io/archives/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>andyaramchung.github.io/archives/</guid>
+      <guid>https://andyaramchung.github.io/archives/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>andyaramchung.github.io/about/</link>
+      <link>https://andyaramchung.github.io/about/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>andyaramchung.github.io/about/</guid>
-      <description>Hi there! My name is Andy Chung, and I am a sophomore at Perrysburg High School!</description>
+      <guid>https://andyaramchung.github.io/about/</guid>
+      <description>&lt;p&gt;Hi there!&#xA;My name is Andy Chung, and I am a sophomore at Perrysburg High School!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

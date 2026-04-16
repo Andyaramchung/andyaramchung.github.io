@@ -1,4 +1,4 @@
-baseURL = "andyaramchung.github.io"
+baseURL = "https://andyaramchung.github.io/"
 title = "Andy Chung"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
@@ -23,7 +23,7 @@ keywords = ["andy chung","woodchung","andrew chung","andy aram chung","andrew ar
     copyrightname = "Andy Aram Chung"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "andyaramchung.github.io"
+    copyrighturl = "https://andyaramchung.github.io"
 
     # Show the "built on Hugo" disclaimer
     showhugo = true
